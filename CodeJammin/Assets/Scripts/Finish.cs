@@ -1,25 +1,44 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Finish : MonoBehaviour
 {
+    [SerializeField] private Text remainingChicken;
+
     private AudioSource finishSound;
     private bool levelCompleted = false;
-
+    
     private void Start()
     {
+        remainingChicken.enabled = false;
         finishSound = GetComponent<AudioSource>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.name == "Player" && !levelCompleted)
+        int numberOfChickens = GameObject.FindGameObjectsWithTag("Banana").Length;
+        if (collision.gameObject.name == "Player" && !levelCompleted)
         {
-            finishSound.Play();
-            Invoke("CompleteLevel", 2f);
-            levelCompleted = true;
+            if(numberOfChickens == 0)
+            {
+                finishSound.Play();
+                Invoke("CompleteLevel", 2f);
+                levelCompleted = true;
+            } else
+            {
+                remainingChicken.enabled = true;
+                remainingChicken.text = $"There are ({GameObject.FindGameObjectsWithTag("Banana").Length}) chickens remaining";
+                Invoke("DisableText", 3f);
+            }
+            
         }
+    }
+    private void DisableText()
+    {
+        remainingChicken.enabled = false;
     }
     private void CompleteLevel()
     {

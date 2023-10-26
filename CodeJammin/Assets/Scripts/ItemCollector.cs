@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
 {
-    private int chickens = 0; 
+    public static int chickens = 0; 
 
     [SerializeField] private TextMeshProUGUI bananasText;
 
@@ -19,7 +19,6 @@ public class ItemCollector : MonoBehaviour
             collectionSoundEffect.Play();
             Destroy(collision.gameObject);
             chickens++;
-            Debug.Log($"{chickens}");
             bananasText.text = "Chickens: " + chickens;
         }
     }

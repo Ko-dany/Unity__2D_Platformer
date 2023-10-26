@@ -9,7 +9,7 @@ public class PlayerLife : MonoBehaviour
     private Animator anim;
 
     [SerializeField] private AudioSource deathSoundEffect;
-
+    int chickenAmount;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,9 +22,9 @@ public class PlayerLife : MonoBehaviour
             Die();
         }
     }
-
     private void Die()
     {
+        ItemCollector.chickens = 0;
         deathSoundEffect.Play();
         rb.bodyType = RigidbodyType2D.Static;
         anim.SetTrigger("death");
