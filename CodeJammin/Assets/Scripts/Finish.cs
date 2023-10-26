@@ -10,7 +10,7 @@ public class Finish : MonoBehaviour
 
     private void Start()
     {
-        finishSound = GetComponent<AudioSource>();    
+        finishSound = GetComponent<AudioSource>();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {

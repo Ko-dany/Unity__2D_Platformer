@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class ItemCollector : MonoBehaviour
 {
-    [SerializeField] private int chickens = 0; 
+    private int chickens = 0; 
 
     [SerializeField] private TextMeshProUGUI bananasText;
 
