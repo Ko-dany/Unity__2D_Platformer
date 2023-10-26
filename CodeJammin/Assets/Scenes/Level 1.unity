@@ -4170,7 +4170,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 2065190356}
   - {fileID: 987061748}
-  speed: 2
+  speed: 1
 --- !u!212 &1653651402
 SpriteRenderer:
   m_ObjectHideFlags: 0
