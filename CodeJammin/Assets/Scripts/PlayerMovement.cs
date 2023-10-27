@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     private enum MovementState { idle, running, jumping, falling, doubleJump }
 
     [SerializeField] private AudioSource jumpSoundEffect;
+    [SerializeField] private AudioSource dashSoundEffect;
 
     private int jumps = 0;
 
@@ -114,6 +115,7 @@ public class PlayerMovement : MonoBehaviour
 
     private IEnumerator Dash()
     {
+        dashSoundEffect.Play();
         canDash = false;
         isDashing = true;
         float originalGravity = rb.gravityScale;
