@@ -226,7 +226,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -303.63, y: -1.0261}
+  m_AnchoredPosition: {x: -242, y: -1.0261}
   m_SizeDelta: {x: 350, y: 350}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &424468871
@@ -694,7 +694,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -301, y: 0}
+  m_AnchoredPosition: {x: -239.37, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1323131798
@@ -931,7 +931,7 @@ MonoBehaviour:
   m_Text: 'VAR Code Jam
 
 
-    TopChickenTurle'
+    TopChickenTurtle'
 --- !u!222 &1375276878
 CanvasRenderer:
   m_ObjectHideFlags: 0
