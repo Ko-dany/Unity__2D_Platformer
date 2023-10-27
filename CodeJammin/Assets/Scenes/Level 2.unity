@@ -2561,7 +2561,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Bananas: 0'
+  m_text: 'Chickens: 0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f5bdf68081796544d99e778a7d1be13b, type: 2}
   m_sharedMaterial: {fileID: -4664282379261170770, guid: f5bdf68081796544d99e778a7d1be13b, type: 2}
