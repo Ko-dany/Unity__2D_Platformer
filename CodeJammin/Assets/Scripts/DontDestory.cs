@@ -7,7 +7,7 @@ public class DontDestory : MonoBehaviour
     private GameObject[] music;
 	static DontDestory instance = null;
 	void Start(){
- 		music = GameObject.FindGameObjectsWithTag ("gameMusic");
+ 		music = GameObject.FindGameObjectsWithTag("gameMusic");
  		Destroy (music[1]);
  	}
  	
