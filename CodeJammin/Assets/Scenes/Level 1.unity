@@ -219,6 +219,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &97445658 stripped
@@ -286,6 +302,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &166142984
@@ -342,6 +374,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -736,6 +784,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &387195654
@@ -792,6 +856,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -893,6 +973,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -1191,6 +1287,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &555401702 stripped
@@ -1252,6 +1364,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -1547,6 +1675,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &812983823 stripped
@@ -1613,6 +1757,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -1775,6 +1935,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1 &941696018
@@ -1865,6 +2041,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -2021,6 +2213,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1027134536
@@ -2077,6 +2285,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -2140,6 +2364,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1048099097 stripped
@@ -2201,6 +2441,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -2372,6 +2628,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1225768235 stripped
@@ -2433,6 +2705,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -2506,6 +2794,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1251870968 stripped
@@ -2568,6 +2872,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1283324475
@@ -2624,6 +2944,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -2682,6 +3018,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1291803462
@@ -2738,6 +3090,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -2881,6 +3249,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1294475066 stripped
@@ -3015,6 +3399,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1394379377 stripped
@@ -3077,6 +3477,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1403456221 stripped
@@ -3138,6 +3554,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -3253,6 +3685,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1422691374 stripped
@@ -3315,6 +3763,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1477357298
@@ -3371,6 +3835,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -3502,6 +3982,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1507746319 stripped
@@ -3564,6 +4060,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1579412776
@@ -3620,6 +4132,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -3745,6 +4273,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1630763207
@@ -3801,6 +4345,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -4185,6 +4745,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &1665952561
@@ -4241,6 +4817,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -4506,6 +5098,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -107349,6 +107957,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &1989930235 stripped
@@ -107416,6 +108040,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &2004235819 stripped
@@ -107478,6 +108118,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!1001 &2046314835
@@ -107534,6 +108190,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -107596,6 +108268,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
@@ -107685,6 +108373,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spikes (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
 --- !u!4 &2072450980 stripped
@@ -107746,6 +108450,22 @@ PrefabInstance:
     - target: {fileID: 881201441515469656, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
       propertyPath: m_Name
       value: Spikes (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5ce1c873a5829b74b8fca08e28e73408, type: 3}
+    - target: {fileID: 881201441515469658, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba526a818b586ff44864f703c79bec0f, type: 3}
