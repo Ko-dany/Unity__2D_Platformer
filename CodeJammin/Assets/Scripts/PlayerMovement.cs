@@ -70,8 +70,6 @@ public class PlayerMovement : MonoBehaviour
 		if (dirX == -1) { direction = 1f; }
 		else if (dirX == 1) { direction = -1f; }
 
-
-
 		// Jumping
 		if (Input.GetButtonDown("Jump") && (IsGrounded() || jumps < 1))
 		{
