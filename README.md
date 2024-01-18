@@ -3,6 +3,10 @@
 This project is created by **Team TopChickenTurtle**, a 4-persons group collaborating through GitHub, using C# and Unity.
 Our team created the game design, level designs, collision system, dynamic animation, and game-clear conditions for an immersive player experience.
 
+## Play Our Game
+
+**https://topchickenturtle.itch.io/topturtlechicken**
+
 ## Project History
 
 - **Creator:** Dahyun Ko, Gabriel Siewert, Juhwan Seo, MilesPurvis,
@@ -27,7 +31,3 @@ Our team created the game design, level designs, collision system, dynamic anima
 
 <img src="preview/main_screen.png">
 <img src="preview/level_1.png">
-
-## Play Our Game
-
-https://topchickenturtle.itch.io/topturtlechicken
